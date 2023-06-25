@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/dimooon/Desktop/exam_2023_ii/main.cpp
+num_vector.h
+/Users/dimooon/Desktop/exam_2023_ii/num_vector.h
+options.h
+/Users/dimooon/Desktop/exam_2023_ii/options.h
+iostream
+-
+
+/Users/dimooon/Desktop/exam_2023_ii/num_vector.h
+initializer_list
+-
+iostream
+-
+cstdlib
+-
+
+/Users/dimooon/Desktop/exam_2023_ii/options.cpp
+string
+-
+options.h
+/Users/dimooon/Desktop/exam_2023_ii/options.h
+
+/Users/dimooon/Desktop/exam_2023_ii/options.h
+vector
+-
+
+/Users/dimooon/Desktop/exam_2023_ii/processing.cpp
+processing.h
+/Users/dimooon/Desktop/exam_2023_ii/processing.h
+
+/Users/dimooon/Desktop/exam_2023_ii/processing.h
+string
+-
+fstream
+-
+

@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++ -g -fno-omit-frame-pointer -fsanitize=address -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/sc.dir/main.cpp.o CMakeFiles/sc.dir/src/num_vector.cpp.o CMakeFiles/sc.dir/src/options.cpp.o CMakeFiles/sc.dir/src/processing.cpp.o -o sc 
